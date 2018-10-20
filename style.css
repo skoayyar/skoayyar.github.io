@@ -82,7 +82,7 @@ img:hover{
   transition: .5s ease;
 }
 
-/* .man2:hover .overlay2 {
+.man2:hover .overlay2 {
   height: 100%;
 }
 .man2{
@@ -100,4 +100,4 @@ img:hover{
   height: 0;
   transition: .5s ease;
 }
- */
+
