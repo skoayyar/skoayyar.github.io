@@ -81,3 +81,22 @@ img:hover{
   height: 100%;
   transition: .5s ease;
 }
+
+.man2:hover .overlay2 {
+  height: 100%;
+}
+.man2{
+	position: relative;
+	width: 100%;
+}
+.overlay2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+}
